@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestRegressor
 import joblib
 
 # Load the dataset
-file_path = 'APY.csv'
+file_path = 'APY_Reduced2.csv'
 data = pd.read_csv(file_path)
 
 # Trim spaces in column names
