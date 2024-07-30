@@ -55,4 +55,12 @@ To run the project, you need to have Python installed. Follow the steps below to
 ## Dataset
 
 The dataset used for this project is `APY_Reduced2.csv`. Here are the first few rows:
+State,District ,Crop,Crop_Year,Season,Area ,Production,Yield
+Uttarakhand,ALMORA,Arhar/Tur,2020,Kharif,216,140,0.65
+Uttarakhand,CHAMOLI,Arhar/Tur,2020,Kharif,227,178,0.78
+Uttarakhand,CHAMPAWAT,Arhar/Tur,2020,Kharif,2,1,0.5
+Uttarakhand,DEHRADUN,Arhar/Tur,2020,Kharif,387,516,1.33
+Uttarakhand,NAINITAL,Arhar/Tur,2020,Kharif,5,3,0.6
+
+
 
